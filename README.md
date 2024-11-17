@@ -2,7 +2,7 @@
 ---
 Python Messaging Client for secure messaging over the Nym Mixnet, a decentralized network designed for privacy.
 ---
-![alt text](https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-twotoone-qyK8xImDDV.jpg)
+![alt text](https://i.ibb.co/QHBv495/s1.jpg)
 
 ## Prerequisites
 
